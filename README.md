@@ -21,7 +21,7 @@ Schematic design for our IoT Trainer is shown below:
 
 **Experiment 3**: LED with local host
 
---
+
 
 
 ### Understanding Connectivity 
