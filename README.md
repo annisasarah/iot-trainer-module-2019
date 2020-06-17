@@ -21,7 +21,7 @@ Schematic design for our IoT Trainer is shown below:
 
 **Experiment 3**: LED with local host
 
----
+-
 
 
 ### Understanding Connectivity 
@@ -30,7 +30,7 @@ Schematic design for our IoT Trainer is shown below:
 
 **Experiment 5**: Xbee Network Connected to ESP8266
 
----
+-
 
 
 ### Understanding Cloud and Application
