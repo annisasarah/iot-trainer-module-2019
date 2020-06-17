@@ -9,7 +9,7 @@ There are 7 (seven) experiments that will cover three IoT segmentation:
 
 Schematic design for our IoT Trainer is shown below:
 
-<a href="https://sites.google.com/view/telecom-uaj/home"><img src="https://user-images.githubusercontent.com/61287961/84853850-54a07a00-b08a-11ea-8b37-b01b3b5806c9.JPG"></a>
+<a href="https://sites.google.com/view/telecom-uaj/home"><img src="https://user-images.githubusercontent.com/61287961/84870233-3f871380-b0a9-11ea-9936-90fbb5485c39.JPG"></a>
 
 ## List of Experiments
 
