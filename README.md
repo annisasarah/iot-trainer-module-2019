@@ -15,27 +15,26 @@ Schematic design for our IoT Trainer is shown below:
 
 ### Understanding Devices
 
-**Experiment 1**: DHT sensor with OLED display
+-**Experiment 1**: DHT sensor with OLED display
 
-**Experiment 2**: DHT 11 with Xbee Connectivity
+-**Experiment 2**: DHT 11 with Xbee Connectivity
 
-**Experiment 3**: LED with local host
+-**Experiment 3**: LED with local host
 
 
 
 
 ### Understanding Connectivity 
 
-**Experiment 4**: Tunneling with Ngrok
+-**Experiment 4**: Tunneling with Ngrok
 
-**Experiment 5**: Xbee Network Connected to ESP8266
+-**Experiment 5**: Xbee Network Connected to ESP8266
 
---
 
 
 ### Understanding Cloud and Application
 
-**Experiment 6**: ThingSpeak
+-**Experiment 6**: ThingSpeak
 
-**Experiment 7**: Web Hosting
+-**Experiment 7**: Web Hosting
 
