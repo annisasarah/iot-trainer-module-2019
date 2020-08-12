@@ -31,9 +31,25 @@ Schematic design for our IoT Trainer is shown below:
 - Experiment 6: ThingSpeak
 - Experiment 7: Web Hosting
 
+## Instructions 
 
-## Expertiment 1
-The first experiment is to read the data from a sensor (DHT11), and show the current temperature and humidity on the OLED display.
-the code available on: <a href="/about/about_team.htm">Code for Experiment 1</a>.
+### Preparation:
+1. Install Arduino IDE
+2. Install XCTU 
+3. Create ThinkSpeak Account
+4. Create 000webhost Account
+
+## Experiment 1
+The first experiment is to read the data from a sensor (DHT11), and show the current temperature and humidity on the OLED display. The data has not been sent to any server yet.
+the code available on: <a href="https://github.com/annisasarah/iot-trainer-module-2019/blob/master/DHT_OLED/DHT_OLED.ino">Code for Experiment 1</a>.
 The circuit for experiment 1:
 <a href="https://sites.google.com/view/telecom-uaj/home"><img src="https://raw.githubusercontent.com/annisasarah/iot-trainer-module-2019/master/doc_files/Experiment%201.JPG"></a>
+
+## Experiment 2
+The next experiment is reading DHT Sensor who connected to Xbee and Arduino. In the next section, the Xbee will connected to other Xbee, in which combined with an ESP8266. This experimeny continues to Experiment 5.
+the code available on: <a href="https://github.com/annisasarah/iot-trainer-module-2019/blob/master/xbee_end/xbee_end.ino">Code for Experiment </a>.
+The circuit for experiment 2:
+<a href="https://sites.google.com/view/telecom-uaj/home"><img src="https://raw.githubusercontent.com/annisasarah/iot-trainer-module-2019/master/doc_files/Experiment%202.JPG"></a>
+
+to config Xbee module, we need to install
+
