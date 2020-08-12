@@ -34,7 +34,7 @@ Schematic design for our IoT Trainer is shown below:
 ## Instructions 
 
 ### Preparation:
-- Install Arduino IDE
+- Install Arduino IDE 
 - Install XCTU 
 - Create ThinkSpeak Account
 - Create 000webhost Account
@@ -51,5 +51,13 @@ the code available on: <a href="https://github.com/annisasarah/iot-trainer-modul
 The circuit for experiment 2:
 <a href="https://sites.google.com/view/telecom-uaj/home"><img src="https://raw.githubusercontent.com/annisasarah/iot-trainer-module-2019/master/doc_files/Experiment%202.JPG"></a>
 
-to config Xbee module, we need to install
+to config Xbee module, we need to take out the XBee from Arduino Shield, connect it to the Zigbee USB adapter, configure the Xbee via Laptop with XCTU software.
+Follow this instruction: 
+1. Click Search 
+2. Choose COM13 (check the checkbox) 
+3. Set the baud rate 9600 and data bits 8. click finish 
+4. Add selected device, click device to access the Zigbee parameter
+5. Set the PAN ID (from 0 to FFFF hex). For this, we use 1234.
+6. Set the destination addres, Node identifier, 
+7. click write button
 
