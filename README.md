@@ -8,8 +8,8 @@ There are 7 (seven) experiments that will cover three IoT segmentation:
 - Cloud and Application
 
 Schematic design for our IoT Trainer is shown below:
-
 <a href="https://sites.google.com/view/telecom-uaj/home"><img src="https://user-images.githubusercontent.com/61287961/84870233-3f871380-b0a9-11ea-9936-90fbb5485c39.JPG"></a>
+
 
 ## List of Experiments
 
@@ -31,3 +31,9 @@ Schematic design for our IoT Trainer is shown below:
 - Experiment 6: ThingSpeak
 - Experiment 7: Web Hosting
 
+
+## Expertiment 1
+The first experiment is to read the data from a sensor (DHT11), and show the current temperature and humidity on the OLED display.
+the code available on: <a href="/about/about_team.htm">Code for Experiment 1</a>
+the circuit for experiment 1:
+<a href="https://sites.google.com/view/telecom-uaj/home"><img src="https://raw.githubusercontent.com/annisasarah/iot-trainer-module-2019/master/doc_files/Experiment%201.JPG"></a>
