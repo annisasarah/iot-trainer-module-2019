@@ -61,3 +61,9 @@ Follow this instruction:
 6. Set the destination addres, Node identifier, 
 7. click write button
 
+
+## Experiment 3
+The third experiment is connecting the LED, and controlled via local host in which accessed by a web browser
+the code available on: <a href="https://github.com/annisasarah/iot-trainer-module-2019/blob/master/web_server_led/web_server_led.ino">Code for Experiment 3</a>.
+The circuit for experiment 1:
+<a href="https://sites.google.com/view/telecom-uaj/home"><img src="https://raw.githubusercontent.com/annisasarah/iot-trainer-module-2019/master/doc_files/Experiment%203.JPG"></a>
