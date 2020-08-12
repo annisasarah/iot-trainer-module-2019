@@ -34,10 +34,10 @@ Schematic design for our IoT Trainer is shown below:
 ## Instructions 
 
 ### Preparation:
-1. Install Arduino IDE
-2. Install XCTU 
-3. Create ThinkSpeak Account
-4. Create 000webhost Account
+- Install Arduino IDE
+- Install XCTU 
+- Create ThinkSpeak Account
+- Create 000webhost Account
 
 ## Experiment 1
 The first experiment is to read the data from a sensor (DHT11), and show the current temperature and humidity on the OLED display. The data has not been sent to any server yet.
