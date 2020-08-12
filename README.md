@@ -34,6 +34,6 @@ Schematic design for our IoT Trainer is shown below:
 
 ## Expertiment 1
 The first experiment is to read the data from a sensor (DHT11), and show the current temperature and humidity on the OLED display.
-the code available on: <a href="/about/about_team.htm">Code for Experiment 1</a>
-the circuit for experiment 1:
+the code available on: <a href="/about/about_team.htm">Code for Experiment 1</a>.
+The circuit for experiment 1:
 <a href="https://sites.google.com/view/telecom-uaj/home"><img src="https://raw.githubusercontent.com/annisasarah/iot-trainer-module-2019/master/doc_files/Experiment%201.JPG"></a>
