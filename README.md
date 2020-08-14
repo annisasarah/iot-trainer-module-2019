@@ -142,7 +142,7 @@ In practical, many IoT applications use an online website to monitor and control
 <a href=""><img src="https://raw.githubusercontent.com/annisasarah/iot-trainer-module-2019/master/doc_files/webhosting(1).jpg"></a>
 
 
-<center> CONGRATULATION YOU FINISH ALL THE EXPERIMENTS! </center>
+## CONGRATULATION YOU FINISH ALL THE EXPERIMENTS!
 
 question and suggestion:
 annisa.sarah@atmajaya.ac.id
