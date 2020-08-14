@@ -83,3 +83,21 @@ You will have a local server to control the LED. The display on the local web se
 
 <a href=""><img src="https://raw.githubusercontent.com/annisasarah/iot-trainer-module-2019/master/doc_files/photo6167784092205165310.jpg"></a>
 
+
+
+## Experiment 4
+This experiment aims to understand the connectivity in IoT, by tunneling our previous project devices network, Experiment 1 and 2, via Ngrok so it can be accessible to Internet. 
+1. First, we need to create ngrok account on https://ngrok.com, download the ngrok. 
+2. We need to save a copy of our AUTH token from ngrok’s website. 
+3. To connect our ngrok software to our account, we need to copy the AUTH token on the ngrok software. 
+4. In the terminal, write the following command:
+```sh
+ngrok tcp 192.168.43.99:8888 --authtoken 1W3dJhGWW5q7MYsMljaaT9CydtX_3hRTjErX1xWjqB7AW1qpj
+```
+5. noted that the TCP IP Address is unique to each ESP8266, and the Auth Token is unique to each ngrok account. If the connection is succesfull, we can see the Tunnel Status as online
+
+On our web browser, we may copy the Forwarding Address tcp://0.tcp.ngrok.io:13962 to monitor our ESP8266 DHT Server, or   tcp://0.tcp.ngrok.io:18922 to a control our LEDs from anywhere in the world. However, the ngrok must be always on.
+
+an example of running Ngrok can be seen here:
+<a href=""><img src="https://raw.githubusercontent.com/annisasarah/iot-trainer-module-2019/master/doc_files/ngrokexample.JPG"></a>
+
