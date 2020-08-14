@@ -110,7 +110,7 @@ an example of running Ngrok can be seen here:
 ### LED Control by Smartphone (powered by HTTP Shortcuts)
 
 In this experiment, we also introduced control buttons that operate on Android in mobile phone, as can be seen in Figure below:
-<a href=""><img src="https://raw.githubusercontent.com/annisasarah/iot-trainer-module-2019/master/doc_files/WhatsApp%20Image%202020-01-07%20at%2014.14.24__.jpeg"></a>
+<a href=""><img src="https://raw.githubusercontent.com/annisasarah/iot-trainer-module-2019/master/doc_files/WhatsApp%20Image%202020-01-07%20at%2014.14.24__.jpeg" width="400"></a>
 
 The application to make this button is called HTTP Shortucs, which is free and available on Google Playstore. To configure these buttons, we need the ESP8266 address for the basic request setting, and input the authentication credentials. However, we can not see the current status of both LEDs, we can only control it remotely.
 
