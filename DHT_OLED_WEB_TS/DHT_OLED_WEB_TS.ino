@@ -22,8 +22,8 @@
 
 
 // Replace with your network credentials
-const char* ssid = "simpleminded";
-const char* password = "sarah2019";
+const char* ssid = "-----";
+const char* password = "-----";
 
 WiFiClient client;
 unsigned long myChannelNumber = 824246; //Your Channel Number (Without Brackets)
